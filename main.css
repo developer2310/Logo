@@ -1,0 +1,696 @@
+body {
+    height: 2200px;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: relative;
+    top: 15px;
+    left: 140px;
+    padding: 5px;
+    box-sizing: border-box;
+    width: 1220px;
+}
+
+.logo {
+    width: 60px;
+}
+
+.bar_section {
+    position: relative;
+    top: -20px;
+    right: 175px;
+    font-size: 25px;
+    text-align: right;
+}
+
+.agile {
+    position: relative;
+    top: -325px;
+    left: 100px;
+    background-color: #F09A10;
+    color: #fff;
+    width: 700px;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+.agile h1 {
+    position: relative;
+    top: 65px;
+    left: 35px;
+    font-size: 145px;
+    width: 500px;
+    font-weight: 900;
+}
+
+.agile h3 {
+    width: 500px;
+    position: relative;
+    top: 85px;
+    font-size: 35px;
+    font-weight: 500;
+    left: 35px;
+}
+
+.agile h4 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    font-size: 15px;
+    font-weight: 500;
+    left: 35px;
+    font-weight: 500;
+}
+
+.btn {
+    position: relative;
+    top: 200px;
+    font-weight: 500;
+    left: 35px;
+    font-weight: 500;
+    width: 500px;
+}
+
+#btn {
+    width: 205px;
+    height: 40px;
+    background-color: #F09A10;
+    color: #fff;
+    border: 2px solid;
+}
+
+#btn:hover {
+    background-color: #FFF;
+    color: #e46cce;
+
+}
+
+.strategiya {
+    width: 265px;
+    height: 255px;
+    position: relative;
+    top: -925px;
+    right: -855px;
+    background-color: #fff;
+}
+
+.strategiya h2 {
+    width: 150px;
+    position: relative;
+    top: 25px;
+    left: 55px;
+}
+
+#str {
+    position: relative;
+    left: 75px;
+    top: 25px;
+}
+
+.yangilik {
+    margin: 0;
+    padding: 0;
+    width: 265px;
+    height: 255px;
+    position: relative;
+    top: -1180px;
+    right: -1170px;
+    background-color: #fff;
+}
+
+.yangilik h2 {
+    width: 180px;
+    position: relative;
+    top: 25px;
+    left: 55px;
+}
+
+#yangilik {
+    position: relative;
+    left: 75px;
+    top: 25px;
+}
+
+.marketing {
+    width: 265px;
+    height: 255px;
+    position: relative;
+    top: -1145px;
+    right: -855px;
+    background-color: #fff;
+}
+
+.marketing h2 {
+    position: relative;
+    top: 25px;
+    width: 160px;
+    left: 55px;
+}
+
+#marketing {
+    position: relative;
+    left: 75px;
+    top: 25px;
+}
+
+.poderjka {
+    margin: 0;
+    padding: 0;
+    width: 265px;
+    height: 255px;
+    position: relative;
+    top: -1402px;
+    right: -1170px;
+    background-color: #fff;
+}
+
+.poderjka h2 {
+    position: relative;
+    top: 25px;
+    left: 55px;
+    width: 160px;
+}
+
+#poderjka {
+    position: relative;
+    left: 75px;
+    top: 25px;
+}
+
+.box_glavniy {
+    margin: -10px;
+    height: 320px;
+    background-color: #483163;
+}
+
+.biznes h1 {
+    position: relative;
+    top: 90px;
+    text-align: center;
+    font-size: 55px;
+
+}
+
+.biznes h2 {
+    position: relative;
+    top: 95px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.biznes h5 {
+    position: relative;
+    top: 105px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#btn2 {
+    position: relative;
+    top: 115px;
+    font-size: 15px;
+    left: 645px;
+    width: 230px;
+    padding: 10px;
+    background-color: #483163;
+    color: #fff;
+}
+
+#btn2:hover {
+    background-color: #F09A10;
+    color: #fff;
+}
+
+.middle_market {
+    position: relative;
+    top: 250px;
+}
+
+.aylana {
+    position: relative;
+    border-radius: 50%;
+    left: 45px;
+    background-color: #F09A10;
+    width: 200px;
+    height: 200px;
+    top: -825px;
+}
+
+.Marketing_middle {
+    position: relative;
+    top: -535px;
+    right: -800px;
+    background-color: #fff;
+    width: 600px;
+    height: 420px;
+}
+
+.Marketing_middle h1 {
+    position: relative;
+    width: 360px;
+    letter-spacing: 1px;
+    left: 69px;
+    top: 55px;
+    font-size: 50px;
+    font-weight: 500;
+
+}
+
+.Marketing_middle p {
+    position: relative;
+    letter-spacing: 1px;
+    left: 69px;
+    width: 520px;
+    top: 75px;
+    font-size: 20px;
+}
+
+.Marketing_middle h4 {
+    width: 360px;
+    letter-spacing: 1px;
+    position: relative;
+    left: 69px;
+    top: 90px;
+
+}
+
+#btn3 {
+    position: relative;
+    letter-spacing: 1px;
+    top: 155px;
+    /* font-size: 15px; */
+    left: 69px;
+    font-weight: 600;
+    width: 230px;
+    padding: 8px;
+    background-color: #483163;
+    color: #fff;
+}
+
+#btn3:hover {
+    background-color: rgb(4, 44, 4);
+    color: #fff;
+}
+
+.yozuv {
+    position: relative;
+    top: -245px;
+    left: 140px;
+    width: 1360px;
+}
+
+.yozuv h1 {
+    position: relative;
+    bottom: 5px;
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.yozuv p {
+    position: relative;
+    bottom: -15px;
+    font-size: 20px;
+}
+
+.yozuv h4 {
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#btn4 {
+    position: relative;
+    top: 50px;
+    padding: 8px;
+    width: 265px;
+    background-color: #483163;
+    color: #fff;
+}
+
+#btn4:hover {
+    background-color: rgb(4, 44, 4);
+    color: #fff;
+}
+
+.mishka {
+    position: relative;
+    top: -605px;
+    right: -825px;
+    width: 620px;
+}
+
+.yaratish_marketing {
+    background-color: #483163;
+    position: relative;
+    top: -405px;
+    width: 100%;
+    height: 1040px;
+}
+
+.yaratish_marketing h1 {
+    position: relative;
+    text-align: center;
+    top: 65px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.boxone {
+    position: relative;
+    top: 150px;
+    left: 140px;
+    width: 450px;
+    height: 350px;
+    background-color: rgb(34, 32, 32);
+}
+
+.boxone h2 {
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    top: 100px;
+    color: #fff;
+}
+
+hr {
+    position: relative;
+    top: 110px;
+    left: 130px;
+}
+
+.boxone p {
+    position: relative;
+    top: 135px;
+    text-align: center;
+    color: #fff;
+}
+
+.boxtwo {
+    position: relative;
+    top: -200px;
+    width: 480px;
+    left: 590px;
+}
+
+.boxthree {
+    position: relative;
+    top: -555px;
+    left: 1040px;
+    width: 450px;
+    height: 350px;
+    background-color: #F09A10;
+}
+
+.boxthree h2 {
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    top: 100px;
+    color: #fff;
+}
+
+hr {
+    position: relative;
+    top: 110px;
+    left: 130px;
+}
+
+.boxthree p {
+    position: relative;
+    top: 135px;
+    text-align: center;
+    color: #fff;
+}
+
+.boxfour {
+    position: relative;
+    top: -555px;
+    left: 140px;
+    width: 450px;
+}
+
+.boxfive {
+    position: relative;
+    left: 590px;
+    top: -910px;
+    background-color: #fff;
+    width: 450px;
+    height: 350px;
+}
+
+.boxfive h2 {
+    position: relative;
+    text-align: center;
+    top: 90px;
+}
+
+.boxfive p {
+    position: relative;
+    text-align: center;
+    top: 155px;
+}
+
+.boxsix {
+    position: relative;
+    top: -1260px;
+    width: 450px;
+    right: -1040px;
+}
+
+.numbers {
+    background-color: #F09A10;
+    width: 100%;
+    height: 610px;
+    position: relative;
+    top: -405px;
+}
+
+.numberone {
+    width: 430px;
+    height: 380px;
+    background-color: #fff;
+    position: relative;
+    top: 100px;
+    left: 145px;
+}
+
+.first {
+    position: relative;
+    left: 175px;
+}
+
+.numberone h1 {
+    position: relative;
+    text-align: center;
+    top: 15px;
+    font-size: 75px;
+}
+
+.numberone p {
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+
+.numbertwo {
+    width: 430px;
+    height: 380px;
+    background-color: #fff;
+    position: relative;
+    top: -280px;
+    left: 595px;
+}
+
+.two {
+    position: relative;
+    left: 175px;
+}
+
+.numbertwo h1 {
+    position: relative;
+    text-align: center;
+    top: 15px;
+    font-size: 75px;
+}
+
+.numbertwo p {
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+
+.numberthree {
+    width: 430px;
+    height: 380px;
+    background-color: #fff;
+    position: relative;
+    top: -660px;
+    left: 1045px;
+}
+
+.three {
+    position: relative;
+    left: 175px;
+}
+
+.numberthree h1 {
+    position: relative;
+    text-align: center;
+    top: 15px;
+    font-size: 75px;
+}
+
+.numberthree p {
+    text-align: center;
+    position: relative;
+    top: 45px;
+}
+
+.pexels {
+    width: 470px;
+    height: 577px;
+    position: relative;
+    top: -405px;
+    left: 145px;
+}
+
+.pexelsone {
+    font-size: 26px;
+    position: relative;
+    top: -790px;
+    width: 350px;
+    height: 380px;
+    left: 145px;
+    background-color: #F09A10;
+    box-sizing: border-box;
+    color: #fff;
+    padding-left: 33px;
+    padding-top: 33px;
+}
+
+.italictext {
+    position: relative;
+    width: 720px;
+    top: -1332px;
+    left: 660px;
+}
+
+.italictext h4 {
+    font-weight: 500;
+    font-size: 18px;
+    padding: 2px;
+}
+
+#namebtr {
+    padding: 10px 12px;
+    width: 390px;
+}
+
+#namebtr,
+placeholder {
+    font-size: 16px;
+}
+
+#emailbtr {
+    padding: 10px 12px;
+    width: 390px;
+}
+
+#emailbtr,
+placeholder {
+    font-size: 16px;
+}
+
+#addressbtr {
+    padding: 10px 12px;
+    width: 390px;
+}
+
+#addressbtr,
+placeholder {
+    font-size: 16px;
+}
+
+#textareabt,
+placeholder {
+    font-size: 16px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-weight: 500;
+
+}
+
+#submitbtr {
+    background-color: #F09A10;
+    color: #fff;
+    padding: 13px 30px;
+    cursor: pointer;
+    border: none;
+}
+
+#submitbtr:hover {
+    background-color: #D98B0E;
+}
+
+.footertwo {
+    background-color: #483163;
+    color: #fff;
+    position: relative;
+    top: -1282px;
+    height: 530px;
+}
+
+.footertwo h1 {
+    position: relative;
+    width: 1260px;
+    top: 95px;
+    font-size: 38px;
+    left: 235px;
+}
+
+.footertwo p {
+    position: relative;
+    width: 1260px;
+    top: 105px;
+    font-size: 20px;
+    left: 235px;
+}
+
+.fontawesome {
+    position: relative;
+    left: 965px;
+    top: 30px;
+    width: 420px;
+}
+
+.footertwo h4 {
+    font-weight: 500;
+    position: relative;
+    bottom: -265px;
+    width: 945px;
+    left: 545px;
+}
+
+.footerend {
+    text-align: center;
+    background-color: #333333;
+    position: relative;
+    top: -1285px;
+    width: 100%;
+    height: 90px;
+}
+
+.footerend h4 {
+    font-weight: 500;
+    position: relative;
+    top: 32px;
+
+}
